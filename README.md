@@ -2,6 +2,8 @@
 
 This is intended to deviate from some of RobTop's design decisions, since I don't agree with them. It's also intended to fix his "non undo-able" mistakes.
 
+There will be emphasis on sight-readability and accessibility, from the very start.
+
 This game won't have main levels/maps. It's just a platform for making and playing.
 
 I'll try my best to make modding/resource-packs as friendly as possible, providing APIs. The first implementations will be unstable, until the community reaches a consensus.
