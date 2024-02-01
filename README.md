@@ -1,6 +1,6 @@
 # Z-Dash
 
-This is meant to deviate from some of RobTop's design decisions, since I don't agree with them. It's also meant to fix some of his mistakes that cannot by undone.
+This is intended to deviate from some of RobTop's design decisions, since I don't agree with them. It's also intended to fix his "non undo-able" mistakes.
 
 This game won't have main levels/maps. It's just a platform for making and playing.
 
