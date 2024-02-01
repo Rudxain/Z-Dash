@@ -12,7 +12,7 @@ The map file-format will be easily machine-readable. I can't guarantee the forma
 
 The game will be offline (serverless). So creators/artists will have to share their maps using social-media platforms, or other cloud-hosting services. This also means there are no "featured" nor "officially rated" levels/maps. Creators & players are entirely responsible for properly rating their maps (this will be included in the metadata), and the community will decide which maps deserve to be "featured".
 
-The game will be distributed as a Wasm PWA, so it'll be cross-platform, with minimal development cost, but slightly slower than a native app (don't worry, I'll use WebGL in the future)
+The game will be distributed as a Wasm PWA, so it'll be cross-platform, with minimal development cost, but slightly slower than a native app
 
 Difficulties & scores. f(n) = 4^n - 1:
 
