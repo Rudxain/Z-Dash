@@ -1,0 +1,2 @@
+- You can start coding a draft implementation! There's nothing stopping the community from doing so.
+- The "Issues" tab is meant to list to-dos and ideas (potential to-dos). Please search it before opening a new issue. Don't post dupes, simply comment on existing threads.
