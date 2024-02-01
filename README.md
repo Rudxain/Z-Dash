@@ -1,5 +1,4 @@
 # Z-Dash
-Concept influenced by Geometry Dash, Minecraft, Rust-Lang, HTML+CSS, and Osu!
 
 This is meant to deviate from some of RobTop's design decisions, since I don't agree with them. It's also meant to fix some of his mistakes that cannot by undone.
 
